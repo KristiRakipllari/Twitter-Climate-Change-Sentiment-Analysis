@@ -13,5 +13,5 @@
 -  2: (News) the tweet links to factual news about climate change.!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KristiRakipllari/Twitter-Climate-Change-Sentiment-Analysis/blob/main/Pie_Chart.png">
+  <source media="" srcset="https://github.com/KristiRakipllari/Twitter-Climate-Change-Sentiment-Analysis/blob/main/Pie_Chart.png">
 </picture>
