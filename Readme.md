@@ -21,8 +21,11 @@ The following text preprocessing steps were used:
 
 ### Algorithms
 Since this is a classification problem, the following algorithms were to be tested and showed that have the best accuracy:
-- Logistic Regression
-- Random Forest
+| Model | Original data | Dropping class 2 | Replacing class 2
+| --- | --- | --- | --- |
+| Logistic Regression | 62% | 65% | 71% |
+| Random Forest | 66% | 73% | 78% |
+| Decision Tree | 58% | 65% | 68% |
 
 ### Evaluation
 The evaluation process used during this project focused on three different key aspects. That would be the evaluation measure, subsequently sampling and cross validation as well as the handling of the ”Factual News” sentiment class.
