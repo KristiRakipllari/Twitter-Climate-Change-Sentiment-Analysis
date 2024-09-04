@@ -12,4 +12,6 @@
 -  1: (Positive) the tweet supports the belief of man-made climate change.
 -  2: (News) the tweet links to factual news about climate change.!
 
-[alt text](Pie_Chart.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KristiRakipllari/Twitter-Climate-Change-Sentiment-Analysis/blob/main/Pie_Chart.png">
+</picture>
